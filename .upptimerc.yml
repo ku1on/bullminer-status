@@ -6,7 +6,7 @@ sites:
   - name: Главная страница
     url: https://bullminer.ru/
   - name: Каталог товаров
-    url: https://bullminer.ru/catalog
+    url: https://bullminer.ru/asicminers
   - name: API (криптовалюты)
     url: https://bullminer.ru/api/crypto-rates
   - name: Файл robots.txt
