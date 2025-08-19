@@ -7,12 +7,8 @@ sites:
     url: https://bullminer.ru/
   - name: Каталог товаров
     url: https://bullminer.ru/catalog
-  - name: API (заказы)
-    url: https://bullminer.ru/api/orders/status
-  - name: Админ-панель (логин)
-    url: https://admin.bullminer.ru/login
-  - name: API (пинг)
-    url: https://bullminer.ru/api/ping
+  - name: API (криптовалюты)
+    url: https://bullminer.ru/api/crypto-rates
   - name: Файл robots.txt
     url: https://bullminer.ru/robots.txt
 
